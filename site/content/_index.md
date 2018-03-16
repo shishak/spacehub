@@ -9,7 +9,7 @@ subtitle: >-
 image: /img/39kelly-twins.jpg
 products:
   - image: img/illustrations-coffee.svg
-  - body: '[4tw4twrtet](https://geektimes.ru/all/page2/)'
+  - body: '[4tw4twrtet](https://geektimes.ru/all/page2/)4'
     image: /img/illustrations-coffee-gear.svg
   - image: /img/39kelly-twins.jpg
 values:
