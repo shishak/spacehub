@@ -17,7 +17,7 @@ products:
 
       ddsf
     image: img/illustrations-coffee.svg
-  - body: asdfasda
+  - body: asdfasdaqqeqe
     image: /img/illustrations-coffee-gear.svg
   - body: asdasd
     image: /img/39kelly-twins.jpg
