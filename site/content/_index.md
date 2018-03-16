@@ -12,6 +12,10 @@ products:
       [35y354y5](https://geektimes.ru/all/page2/)
 
       [thsrthr](https://geektimes.ru/all/page2/)dwedwed
+
+
+
+      ddsf
     image: img/illustrations-coffee.svg
   - body: asdfasda
     image: /img/illustrations-coffee-gear.svg
