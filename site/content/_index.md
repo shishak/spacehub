@@ -13,7 +13,7 @@ pricing:
         - ertert
       plan: etrert
       price: ertert
-    - description: ertert
+    - description: 'ertert, hgdhgdhg, jhgfjhfj, jhfjhfj'
       items:
         - egewg
       plan: etrte
