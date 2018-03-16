@@ -8,19 +8,10 @@ subtitle: >-
   to normal after he landed, researchers found.
 image: /img/39kelly-twins.jpg
 products:
-  - body: |-
-      [35y354y5](https://geektimes.ru/all/page2/)
-
-      [thsrthr](https://geektimes.ru/all/page2/)dwedwed
-
-
-
-      ddsf
-    image: img/illustrations-coffee.svg
-  - body: asdfasdaqqeqe
-    image: /img/illustrations-coffee-gear.svg
-  - body: asdasd
-    image: /img/39kelly-twins.jpg
+  - image: img/illustrations-coffee.svg
+    markdown: '[etyertye](https://geektimes.ru/all/page2/)'
+  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/39kelly-twins.jpg
 values:
   heading: Our values
   text: >-
