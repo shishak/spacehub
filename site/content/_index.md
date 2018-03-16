@@ -9,12 +9,7 @@ subtitle: >-
 image: /img/39kelly-twins.jpg
 products:
   - image: img/illustrations-coffee.svg
-    markdown: |-
-      [etyertye](https://geektimes.ru/all/page2/)
-
-
-
-      [rjrftjjjfj](Markdown)
+    text: <a href="/products" class="btn raise">See all products</a>
   - image: /img/illustrations-coffee-gear.svg
   - image: /img/39kelly-twins.jpg
 values:
