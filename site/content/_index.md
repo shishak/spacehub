@@ -9,8 +9,9 @@ subtitle: >-
 image: /img/39kelly-twins.jpg
 products:
   - image: img/illustrations-coffee.svg
-    text: <a href="/products" class="btn raise">See all products</a>
+    text: ''
   - image: /img/illustrations-coffee-gear.svg
+    text: '[ethth](https://geektimes.ru/all/page2/)'
   - image: /img/39kelly-twins.jpg
 values:
   heading: Our values
