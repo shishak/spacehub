@@ -13,8 +13,10 @@ products:
 
       [thsrthr](https://geektimes.ru/all/page2/)
     image: img/illustrations-coffee.svg
-  - image: /img/illustrations-coffee-gear.svg
-  - image: /img/39kelly-twins.jpg
+  - body: asdfasda
+    image: /img/illustrations-coffee-gear.svg
+  - body: asdasd
+    image: /img/39kelly-twins.jpg
 values:
   heading: Our values
   text: >-
