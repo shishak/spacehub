@@ -9,7 +9,7 @@ subtitle: >-
 image: /img/39kelly-twins.jpg
 products:
   - image: img/illustrations-coffee.svg
-    text: '[tyhrtye](eyrery)'
+    text: <a href="/products" class="btn raise">See all products</a>
   - image: /img/illustrations-coffee-gear.svg
   - image: /img/39kelly-twins.jpg
 values:
