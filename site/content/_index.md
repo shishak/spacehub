@@ -15,7 +15,10 @@ pricing:
       price: ertert
     - description: ertert
       items:
-        - ertert
+        - egewg
+        - efsegfewg
+        - qegfwegfwe
+        - egwegwerg
       plan: etrte
       price: ertert
 title: >-
