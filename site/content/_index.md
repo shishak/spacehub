@@ -23,9 +23,9 @@ products:
       fall in love with in our shop.
   - image: /img/39kelly-twins.jpg
     text: |-
-      [ergergerg](wfef)
+      [ergergerg](https://geektimes.ru/all/page2/)
 
-      [srgwsrgwreg](wefew)
+      [srgwsrgwreg](https://geektimes.ru/all/page2/)
 values:
   heading: Our values
   text: >-
