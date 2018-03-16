@@ -1,4 +1,23 @@
 ---
+pricing:
+  description: ertert
+  heading: retert
+  plans:
+    - description: ertert
+      items:
+        - ertert
+      plan: etert
+      price: ertert
+    - description: ertert
+      items:
+        - ertert
+      plan: etrert
+      price: ertert
+    - description: ertert
+      items:
+        - ertert
+      plan: etrte
+      price: ertert
 title: >-
   SCOTT KELLY: NASA TWINS STUDY CONFIRMS ASTRONAUT'S DNA ACTUALLY CHANGED IN
   SPACE
